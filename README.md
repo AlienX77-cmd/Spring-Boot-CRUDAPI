@@ -27,3 +27,6 @@ Spring-Boot-CRUDAPI/crudapi/src/main/java/com/kittipak/crudapi/repository/UserRe
 Spring-Boot-CRUDAPI/crudapi/src/main/java/com/kittipak/crudapi/controllers/UserController.java
 
 **Detail:** UserController กำหนด path endpoint (API endpoint) และใช้งาน UserService.java ในแต่ละ endpoint (Post, Get, Get by id, Delete, Put)
+
+
+**Run the app via: CrudapiApplication.java**
