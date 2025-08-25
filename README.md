@@ -2,13 +2,13 @@
 
 **Spring-Boot-CRUDAPI/crudapi/src/main/java/com/kittipak/crudapi/entity/User.java**
 
-**Detail:** User.java - User Class Object
+**Detail:** User.java - User Class Object (Define Type and Data Model)
 
 **Path 1:**
 
 **Spring-Boot-CRUDAPI/crudapi/src/main/java/com/kittipak/crudapi/services/UserService.java**
 
-**Detail:** UserService.java - กำหนด Interface
+**Detail:** UserService.java - กำหนด Interface of method
 
 **Path 2:**
 
